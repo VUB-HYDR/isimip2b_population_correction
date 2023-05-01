@@ -1,0 +1,21 @@
+# These are the modules loaded on hydra
+
+module purge
+module load JupyterLab/3.1.6-GCCcore-11.2.0
+ml Python/3.9.6-GCCcore-11.2.0
+ml geopandas/0.11.0-foss-2021b
+ml openpyxl/3.0.9-GCCcore-11.2.0
+ml regionmask/0.9.0-foss-2021b
+ml xarray/0.20.1-foss-2021b
+ml netcdf4-python/1.5.8-foss-2021b
+ml SciPy-bundle/2021.10-foss-2021b
+ml matplotlib/3.4.3-foss-2021b
+ml Cartopy/0.20.3-foss-2021b
+ml Shapely/1.8.2-foss-2021b
+ml nc-time-axis/1.4.1-foss-2021b
+ml CDO/2.0.5-gompi-2021b
+ml ncview/2.1.8-gompi-2021b
+module swap xarray/0.20.1-foss-2021b xarray/2022.6.0-foss-2021b
+
+
+

@@ -1,3 +1,5 @@
 # list of files to be ignored when pushing to github
 
 data/
+corrected/*.nc*
+scripts/.ipynb_checkpoints/
