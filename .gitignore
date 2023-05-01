@@ -1,0 +1,3 @@
+# list of files to be ignored when pushing to github
+
+data/
