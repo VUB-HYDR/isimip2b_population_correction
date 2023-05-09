@@ -15,6 +15,7 @@ ml Shapely/1.8.2-foss-2021b
 ml nc-time-axis/1.4.1-foss-2021b
 ml CDO/2.0.5-gompi-2021b
 ml ncview/2.1.8-gompi-2021b
+ml h5netcdf/1.1.0-foss-2021b 
 module swap xarray/0.20.1-foss-2021b xarray/2022.6.0-foss-2021b
 
 
