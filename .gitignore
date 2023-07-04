@@ -3,3 +3,4 @@
 data/
 corrected/*.nc*
 scripts/.ipynb_checkpoints/
+results/
